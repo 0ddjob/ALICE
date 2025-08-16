@@ -1,5 +1,7 @@
 # ALICE MULTI-PORT EXTENSION #
 
+NOTE!  This is not my original project, I am merely adding English translations to make it easier for the wider community to try this interesting project.<br>
+
 This extension expands the capabilities of MATRA ALICE computers (4K, 32, and 90).  
 It adds:  
 - two DB9 joystick ports  
