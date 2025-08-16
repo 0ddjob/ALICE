@@ -1,13 +1,11 @@
-Le GAL 16V8 se charge des joysticks. Le programme est identique sur toutes les versions.
+The GAL 16V8 handles the joysticks. The program is identical across all versions.
 
-Le GAL 20V8 se charge du décodage des adresses. Il est disponible en 3 version:
+The GAL 20V8 handles address decoding. It is available in 3 versions:
 
-- 20V8_16K : Limite la mémoire RAM additionelle à 16K pour l'Alice 4K et le Tandy MC10.
+- 20V8_16K: Limits the additional RAM to 16KB for the Alice 4K and Tandy MC10.
 
-- 20V8_24K : Autorise le maximum de RAM additionelle (24K) pour l'Alice 32.
+- 20V8_24K: Allows the maximum additional RAM (24KB) for the Alice 32.
 
-- 20V8_20K : Version spéciale pour l'Alice 4K et le Tandy MC10 ayant une extension RAM interne de 8K. Dans ce cas la RAM additionnelle commence à $6000.
+- 20V8_20K: Special version for the Alice 4K and Tandy MC10 with an internal 8KB RAM extension. In this case, the additional RAM starts at $6000.
 
- Remarque: En pratique, il est possible d'utiliser la version 24K sur l'Alice 4K sans problème.
-
- 
+Note: In practice, it is possible to use the 24K version on the Alice 4K without any issues.

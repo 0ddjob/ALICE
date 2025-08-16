@@ -1,0 +1,39 @@
+List of Components for the Alice Multiport Extension**
+
+*Main Board*
+
+- R1, R2: 4.7k resistor, 1/8W
+- R3, R4: 47R resistor, 1/2W
+- C1: 470µF/16V capacitor
+- RN1, RN2: RR5 10k resistor network (5 resistors with a common point)
+- C2, C3, C4: 100nF capacitor
+- D1, D2, D3: BAT85 (Schottky diode)
+- U1: GAL 16V8
+- U2: 74LS02
+- U3: 74LS30
+- U4: 74LS173
+- U5: GAL 20V8
+- U6: 62256 or equivalent (SRAM 32Kx8)
+- IC sockets (2x 14-pin, 1x 16-pin, 1x 20-pin, 1x 24-pin narrow, 1x 28-pin wide)
+
+- J1: 2x17 male IDC connector, 90°
+- J4: 2x14 straight edge connector
+- J5, J6: DR9 male connector, 90°
+- SW1: 1-contact "piano" DIP switch
+- 4 M3x6mm screws for DR9 connectors
+- 4 2.9x6mm pan-head sheet metal screws
+- 4 3x20mm chipboard screws
+
+*Adapter*
+
+- J1: 34-pin male IDC connector for cable
+- J2: 2x18 straight edge connector
+- 10cm 34-conductor ribbon cable
+- 2 3x13mm chipboard screws
+
+*Cartridge*
+
+- U1: 27C512 EPROM or W27C512 EEPROM
+- C1: 220nF capacitor, 5mm pitch
+- 28-pin wide IC socket
+- 2 3x13mm chipboard screws
